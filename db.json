@@ -4,19 +4,19 @@
       "id": 1001,
       "name": "t-shirt",
       "manufacturer": "Company A",
-      "description": "Simple white tee",
+      "description": "Simple white tee"
     },
     {
       "id": 1002,
       "name": "trousers",
       "manufacturer": "Company B",
-      "description": "Comfy lounge trousers",
+      "description": "Comfy lounge trousers"
     },
     {
       "id": 1003,
       "name": "t-shirt",
       "manufacturer": "Company C",
-      "description": "Simple white tee",
+      "description": "Simple white tee"
     }
   ]
 }
