@@ -18,5 +18,12 @@
       "manufacturer": "Company C",
       "description": "Timeless Jobs' style"
     }
+  ],
+  "protos": [
+    {
+      "code": 1234,
+      "manufacturer": "Black Hoodie Company",
+      "description": "Low key hoodie for every occasion"
+    }
   ]
 }
