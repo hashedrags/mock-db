@@ -2,28 +2,33 @@
   "items": [
     {
       "id": 1001,
-      "name": "t-shirt",
-      "manufacturer": "Company A",
-      "description": "Simple white tee"
-    },
+      "name": "Shirtoji",
+      "size": "xxl",
+      "manufacturer": "Funny Tees Ltd",
+      "description": "Just a tshirt",
+      "image": "thirt.jpeg",
+      "owner": "Tomasz",
+      "date": "2021-01-01"
+    }
     {
       "id": 1002,
-      "name": "trousers",
-      "manufacturer": "Company B",
-      "description": "Comfy cotton lounge trousers"
+      "name": "Lougers",
+      "size": "xxl",
+      "manufacturer": "PJ & Co",
+      "description": "Comfy cotton lounge pants",
+      "image": "pants.jpeg",
+      "owner": "Tomasz",
+      "date": "2021-01-01"
     },
     {
       "id": 1003,
-      "name": "turtleneck",
-      "manufacturer": "Company C",
-      "description": "Timeless Jobs' style"
-    }
-  ],
-  "protos": [
-    {
-      "code": 1234,
-      "manufacturer": "Black Hoodie Company",
-      "description": "Low key hoodie for every occasion"
+      "name": "Mr Turtle",
+      "size": "xxl",
+      "manufacturer": "Snuggles",
+      "description": "Timeless Jobs' style",
+      "image": "turtle.jpg",
+      "owner": "Tomasz",
+      "date": "2021-01-01"
     }
   ]
 }
