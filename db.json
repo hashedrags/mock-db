@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "id": 1001,
+      "id": "1001",
       "name": "Shirtoji",
       "size": "xxl",
       "manufacturer": "Funny Tees Ltd",
@@ -11,7 +11,7 @@
       "date": "2021-01-01"
     },
     {
-      "id": 1002,
+      "id": "1002",
       "name": "Lougers",
       "size": "xxl",
       "manufacturer": "PJ & Co",
@@ -21,7 +21,7 @@
       "date": "2021-01-01"
     },
     {
-      "id": 1003,
+      "id": "1003",
       "name": "Mr Turtle",
       "size": "xxl",
       "manufacturer": "Snuggles",
