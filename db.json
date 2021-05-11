@@ -6,7 +6,7 @@
       "size": "xxl",
       "manufacturer": "Funny Tees Ltd",
       "description": "Just a tshirt",
-      "image": "thirt.jpeg",
+      "image-name": "thirt.jpeg",
       "owner": "Tomasz",
       "date": "2021-01-01"
     },
@@ -16,7 +16,7 @@
       "size": "xxl",
       "manufacturer": "PJ & Co",
       "description": "Comfy cotton lounge pants",
-      "image": "pants.jpeg",
+      "image-name": "pants.jpeg",
       "owner": "Tomasz",
       "date": "2021-01-01"
     },
@@ -26,7 +26,7 @@
       "size": "xxl",
       "manufacturer": "Snuggles",
       "description": "Timeless Jobs style",
-      "image": "turtle.jpg",
+      "image-name": "turtle.jpg",
       "owner": "Tomasz",
       "date": "2021-01-01"
     }
