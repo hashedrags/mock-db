@@ -2,31 +2,31 @@
   "items": [
     {
       "id": "1001",
-      "name": "Shirtoji",
+      "name": "Vintage Metallica T-shirt",
       "size": "xxl",
-      "manufacturer": "Funny Tees Ltd",
-      "description": "Just a tshirt",
-      "imagename": "tshirt.jpeg",
+      "manufacturer": "Metallica Merch Ltd",
+      "description": "Official T from 1987 Colorado gig",
+      "imagename": "metallica.png",
       "owner": "Tomasz",
       "date": "2021-01-01"
     },
     {
       "id": "1002",
-      "name": "Loungers",
+      "name": "Hand Crafted Backpack",
       "size": "xxl",
-      "manufacturer": "PJ & Co",
-      "description": "Comfy cotton lounge pants",
-      "imagename": "pants.jpeg",
+      "manufacturer": "Bengaluru Women Support Foundation",
+      "description": "From by backpacking trip to India",
+      "imagename": "bagpack.png",
       "owner": "Tomasz",
       "date": "2021-01-01"
     },
     {
       "id": "1003",
-      "name": "Mr Turtle",
+      "name": "Limited edition Lebron 'Equality' shoes",
       "size": "xxl",
-      "manufacturer": "Snuggles",
-      "description": "Timeless Jobs style",
-      "imagename": "turtle.jpeg",
+      "manufacturer": "Nike",
+      "description": "Won in an online draw",
+      "imagename": "sneaker.jpeg",
       "owner": "Tomasz",
       "date": "2021-01-01"
     }
